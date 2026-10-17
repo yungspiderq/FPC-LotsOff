@@ -49,13 +49,13 @@ from FunPayAPI.common import enums as fp_enums
 logger = logging.getLogger("FPC.LotsOff")
 
 # ══════════════════════════════ МЕТАДАННЫЕ ПЛАГИНА ══════════════════════════════
-NAME = "Отключение лотов по категориям"
-VERSION = "1.2.0"
+NAME = "LotsOff (Deactivate Lots by Categories)"
+VERSION = "1.2.1"
 DESCRIPTION = ("Массовое отключение/включение лотов по категориям и подкатегориям FunPay через Telegram-меню. "
                "Избранные категории — в начале списка. По завершении операции пишет в чат "
                "«Категория выключена/включена». «Хранитель» удерживает лоты отключенных категорий "
                "выключенными, даже если включено автовосстановление Кардинала. Команда: /lotsoff")
-CREDITS = "Qwen (для FunPay Cardinal)"
+CREDITS = "yungspider"
 UUID = "b70a0b81-ce8d-431f-b387-b781d8461345"
 SETTINGS_PAGE = True
 

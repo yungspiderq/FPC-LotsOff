@@ -2,6 +2,8 @@
 
 Плагин для [FunPay Cardinal](https://github.com/sidor0912/FunPayCardinal) **v0.1.17+**
 
+**Автор:** yungspider
+
 Массовое отключение (деактивация) и включение лотов по категориям/подкатегориям FunPay
 прямо из Telegram-меню Кардинала.
 
